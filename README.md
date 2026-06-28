@@ -3,12 +3,12 @@
 Contractor safety grading platform — turning public OSHA federal enforcement 
 data into A–F grades for homeowners and general contractors.
 
-**Currently live in: California, Florida, Texas, New York, Washington, Oregon, and Idaho**
+**Currently live in: California, Florida, Georgia, Idaho, Illinois, New York, Oregon, Texas, Washington, and Wisconsin**
 
 ---
 
 ### What we build
-- 248,000+ contractors graded across FL, TX, CA, NY, WA, OR, and ID
+- 980,000+ contractors graded across FL, TX, CA, NY, WA, OR, ID, WI, GA, and IL
 - Severity · Frequency · Response · Recency scoring model
 - Freemium search with full inspection history on premium
 
